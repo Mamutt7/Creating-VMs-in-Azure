@@ -1,3 +1,5 @@
+In this home lab, I will create a storage container for practice within a resource group on Azure.
+
 1.	Create a Resource Group on Azure.
 ![image](https://github.com/user-attachments/assets/b5ca41c1-9f04-4e4f-b755-252e6e33a65d)
 
