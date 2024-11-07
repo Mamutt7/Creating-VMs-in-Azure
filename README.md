@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd7ebcb5-e989-435d-acb9-73fe442c4cb7" alt="download">
+</p>
+
 # Creating VMs in Cloud (Azure)
 
 In this home lab, I’ll walk through creating a storage container within a resource group in Azure.
